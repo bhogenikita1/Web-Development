@@ -1,5 +1,6 @@
 ## Web_Development
-## 💻 Tech Stack
+
+## 💻 Technology Stack
 
 - HTML5
 - CSS3
